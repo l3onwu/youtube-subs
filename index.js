@@ -6,7 +6,7 @@ const SUBSCRIBED = ["mkbhd", "LinusTechTips", "ESPN"];
 
 // Select the number of latest videos per channel you would like to display
 // NOTE: Must be an integer between 1 and 30
-let VIDEOCOUNT = 0;
+let VIDEOCOUNT = 3;
 
 // FUNCTION
 const scrapeAll = async () => {
