@@ -1,4 +1,6 @@
 # youtube-subs
+![ytsubs](https://user-images.githubusercontent.com/85681107/146662583-2371f1f1-2e1c-4158-b55d-123f14941519.png)
+
 A minimalist node application run in the Command Line, to get a list of the latest videos from Youtube Channels. Uses the 'puppeteer' web scraper.
 ### Install
 Make sure you have node installed. Clone the repo and `npm install` from the main directory.
