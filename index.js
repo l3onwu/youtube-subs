@@ -2,7 +2,17 @@ const puppeteer = require("puppeteer");
 
 // USER INPUTS
 // Add the channel names you would like to check to this array
-const SUBSCRIBED = ["mkbhd", "LinusTechTips", "ESPN"];
+const SUBSCRIBED = [
+  "mkbhd",
+  "LinusTechTips",
+  "macaddress",
+  "Smallant",
+  "Oliur",
+  "aliabdaal",
+  "jomaoppa",
+  "marselaaa",
+  "YeahRussia",
+];
 
 // Select the number of latest videos per channel you would like to display
 // NOTE: Must be an integer between 1 and 30
