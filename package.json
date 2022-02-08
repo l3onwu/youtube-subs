@@ -1,6 +1,6 @@
 {
   "name": "youtube-subs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.25.0",
-    "puppeteer": "^13.0.0"
+    "axios": "^0.25.0"
   }
 }
